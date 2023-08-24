@@ -1,8 +1,1 @@
-/lib/
-/bin/
-/.shards/
-*.dwarf
-
-# Libraries don't need dependency lock
-# Dependencies will be locked in applications that use them
-/shard.lock
+# nothing to ignore for now while I fux with this repo
